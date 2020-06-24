@@ -1,0 +1,37 @@
+[
+  {
+    "codigo": "I",
+    "nombre": "imperio",
+    "display": "Imperio",
+    "descripcion": "Es el formato principal de juego. Está compuesto por todas las cartas incluidas dentro de las últimas ediciones. Actualmente el formato se compone desde la edición Águila Imperial hasta Olimpia.",
+    "setsLegales": []
+  },
+  {
+    "codigo": "0002",
+    "nombre": "unificado",
+    "display": "Unificado",
+    "descripcion": "Se compone de todas las ediciones lanzadas desde el año 2014, desde la edición Furia hasta la edición más reciente.",
+    "setsLegales": []
+  },
+  {
+    "codigo": "0003",
+    "nombre": "infanteria",
+    "display": "Infantería",
+    "descripcion": "Este formato contempla sólo cartas Vasallas y Cortesanas, lanzadas desde la edición Furia hasta la más reciente. La rareza oficial de una carta es su última versión lanzada al mercado.",
+    "setsLegales": []
+  },
+  {
+    "codigo": "0004",
+    "nombre": "vcr",
+    "display": "VCR",
+    "descripcion": "Vasallos, Cortesanos, Reales (VCR) es una variación del formato Infantería en la que se incluyen las cartas Reales además de Vasallos y Cortesanos, y se limita a las ediciones vigentes en formato Imperio (actualmente desde Águila Imperial hasta Olimpia).",
+    "setsLegales": []
+  },
+  {
+    "codigo": "0005",
+    "nombre": "primer_bloque",
+    "display": "Primer Bloque",
+    "descripcion": "Formato que comprende el bloque de cartas más antiguo",
+    "setsLegales": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "kard-admin",
+  "version": "1.0.0",
+  "description": "Administrador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nKardia/kard-admin.git"
+  },
+  "author": "Felipe Castro Richter <digivoro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nKardia/kard-admin/issues"
+  },
+  "homepage": "https://github.com/nKardia/kard-admin#readme",
+  "dependencies": {
+    "firestore-export-import": "^0.6.0"
+  }
+}

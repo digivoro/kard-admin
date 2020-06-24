@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "0001",
+    "tipoTorneo": "campeones",
+    "display": "Torneo de Campeones",
+    "descripcion": "Es un nuevo evento que reúne a los Campeones de Ligas y Avanzados de la temporada anterior en un único torneo de premiación en honor a su esfuerzo. Este torneo otorgará 4 cupos al Nacional."
+  },
+  {
+    "codigo": "0002",
+    "tipoTorneo": "premier",
+    "display": "Torneo Premier",
+    "descripcion": "Desde el 2019 no se realizará un Premier por temporada sino 3. Uno en la zona norte del país, otro en la zona centro y otro en la zona sur. Serán torneos abiertos donde se conocerán las mejores estrategias de la nueva temporada, y entregarán 4 cupos al Nacional y 4 cupos al Coliseo cada uno."
+  },
+  {
+    "codigo": "0003",
+    "tipoTorneo": "coliseo",
+    "display": "Torneo Coliseo",
+    "descripcion": "El Coliseo es un evento con premios en efectivo que vuelve a ser de ingreso exclusivo por ranking TOR, donde los mejores 48 jugadores de la temporada podrán participar, sumado a los 12 clasificados por torneos Premier de esa temporada. Este torneo entrega 4 cupos al Nacional."
+  },
+  {
+    "codigo": "0004",
+    "tipoTorneo": "conquista",
+    "display": "Torneo Conquista",
+    "descripcion": "Los torneos Conquista serán eventos abiertos con la finalidad de otorgar a los ganadores importantes beneficios para algún torneo futuro, como empezar con rondas ganadas o tener tratamiento especial durante ese torneo"
+  }
+]

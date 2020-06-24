@@ -1,0 +1,89 @@
+{
+  "palabrasClave": [
+    {
+      "codigo": "0001",
+      "palabraClave": "Alimentar",
+      "descripcion": "Es una habilidad que permite poner Contadores sobre tus Aliados y cada Contador de Alimento le da 1 de Fuerza. Los Contadores pueden ser cualquier cosa que permita representar un número (dados, fichas, monedas, papeles, botones, etc.)."
+    },
+    {
+      "codigo": "0002",
+      "palabraClave": "Anular",
+      "descripcion": "Evitar que una carta se resuelva cuando está siendo jugada."
+    },
+    {
+      "codigo": "0003",
+      "palabraClave": "Cancelar",
+      "descripcion": "Evitar que una habilidad se resuelva cuando está siendo usada."
+    },
+    {
+      "codigo": "0004",
+      "palabraClave": "Contador",
+      "descripcion": "Representación física de una característica numérica en algunas cartas, que puede ser un dado, fichas, papeles, etc. El número de contadores puede ir aumentando o disminuyendo, por lo que la representación física debe ser fácil agregar un nuevo contador o quitarlos."
+    },
+    {
+      "codigo": "0005",
+      "palabraClave": "Conquista",
+      "descripcion": "Habilidad que permite a los aliados Robar una carta y poner un Contador de Conquista cuando hacen Daño, sólo si no posee ya un Contador de Conquista (se resolverá sólo 1 vez)."
+    },
+    {
+      "codigo": "0006",
+      "palabraClave": "Errante",
+      "descripcion": "Cada jugador puede tener sólo 1 copia de cada carta Errante en juego."
+    },
+    {
+      "codigo": "0007",
+      "palabraClave": "Espectral",
+      "descripcion": "Un Aliado con Espectral se convierte en Talismán cuando está en el cementerio."
+    },
+    {
+      "codigo": "0008",
+      "palabraClave": "Exhumar",
+      "descripcion": "Una carta con Exhumar se puede jugar desde el cementerio pagando sus costes, luego si es un Talismán se destierra."
+    },
+    {
+      "codigo": "0009",
+      "palabraClave": "Guardián",
+      "descripcion": "Un Aliado Guardián no puede ser declarado atacante. "
+    },
+    {
+      "codigo": "0010",
+      "palabraClave": "Honor",
+      "descripcion": "Tipo de Contador que permite que los Aliados que lo posean no salgan del juego por efecto de Talismanes o Tótems."
+    },
+    {
+      "codigo": "0011",
+      "palabraClave": "Ilusión",
+      "descripcion": "Cuando un Aliado con Ilusión es destruido, se vuelve a jugar desde el cementerio pero entra como un Aliado sin habilidad al hacerlo."
+    },
+    {
+      "codigo": "0012",
+      "palabraClave": "Inmunidad",
+      "descripcion": "Una carta con Inmunidad evita que sea seleccionada por habilidades o efectos del tipo de carta al que es Inmune."
+    },
+    {
+      "codigo": "0013",
+      "palabraClave": "Luz",
+      "descripcion": "No es una habilidad de jugabilidad sino una característica de la carta, no influye en el juego."
+    },
+    {
+      "codigo": "0014",
+      "palabraClave": "Oscuridad",
+      "descripcion": "No es una habilidad de jugabilidad sino una característica de la carta, no influye en el juego."
+    },
+    {
+      "codigo": "0015",
+      "palabraClave": "Objetivo",
+      "descripcion": "Un objetivo es una carta o cartas seleccionadas para aplicar un efecto sobre ellas."
+    },
+    {
+      "codigo": "0016",
+      "palabraClave": "Purificar",
+      "descripcion": "Elegir entre desterrar una carta de un cementerio o barajar esa misma carta en el mazo de su dueño."
+    },
+    {
+      "codigo": "0017",
+      "palabraClave": "Retador",
+      "descripcion": "Cuando un Aliado con Retador ataca, puede elegir a un Aliado en la línea de defensa oponente para que deba bloquearlo."
+    }
+  ]
+}

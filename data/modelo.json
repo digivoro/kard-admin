@@ -1,0 +1,9 @@
+{
+  "jugador": {
+    "_id": null,
+    "nombre": null,
+    "idUsuario": null,
+    "email": null,
+    "password": null
+  }
+}
