@@ -1,0 +1,24 @@
+{
+  "zonasMazo": [
+    {
+      "id": 0,
+      "nombre": "main",
+      "limiteCartas": 49
+    },
+    {
+      "id": 1,
+      "nombre": "sideboard",
+      "limiteCartas": 15
+    },
+    {
+      "id": 2,
+      "nombre": "monumento",
+      "limiteCartas": 1
+    },
+    {
+      "id": 3,
+      "nombre": "oro_inicial",
+      "limiteCartas": 1
+    }
+  ]
+}

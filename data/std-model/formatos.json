@@ -1,0 +1,29 @@
+{
+  "formatos": [
+    {
+      "id": 0,
+      "nombre": "pb",
+      "nombreDisplay": "Primer Bloque"
+    },
+    {
+      "id": 1,
+      "nombre": "imperio",
+      "nombreDisplay": "Imperio"
+    },
+    {
+      "id": 2,
+      "nombre": "vcr",
+      "nombreDisplay": "VCR"
+    },
+    {
+      "id": 3,
+      "nombre": "infanteria",
+      "nombreDisplay": "Infantería"
+    },
+    {
+      "id": 4,
+      "nombre": "unificado",
+      "nombreDisplay": "Unificado"
+    }
+  ]
+}

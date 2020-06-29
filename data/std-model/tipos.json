@@ -1,0 +1,32 @@
+{
+  "tipos": [
+    {
+      "id": 1,
+      "nombre": "aliado"
+    },
+    {
+      "id": 2,
+      "nombre": "talisman"
+    },
+    {
+      "id": 3,
+      "nombre": "arma"
+    },
+    {
+      "id": 4,
+      "nombre": "totem"
+    },
+    {
+      "id": 5,
+      "nombre": "monumento"
+    },
+    {
+      "id": 6,
+      "nombre": "oro_basico"
+    },
+    {
+      "id": 7,
+      "nombre": "oro_habilidad"
+    }
+  ]
+}

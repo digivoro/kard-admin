@@ -1,0 +1,243 @@
+{
+  "ediciones": [
+    {
+      "id": 27,
+      "ordenBloque": 27,
+      "nombre": "dinastia_del_dragon",
+      "nombrePublico": "Dinastía del Dragón"
+    },
+    {
+      "id": 26,
+      "ordenBloque": 26,
+      "nombre": "invasion_oscura",
+      "nombrePublico": "Invasión Oscura"
+    },
+    {
+      "id": 25,
+      "ordenBloque": 25,
+      "nombre": "terrores_nocturnos",
+      "nombrePublico": "Terrores Nocturnos"
+    },
+    {
+      "id": 24,
+      "ordenBloque": 24,
+      "nombre": "tinta_inmortal",
+      "nombrePublico": "Tinta Inmortal"
+    },
+    {
+      "id": 23,
+      "ordenBloque": 23,
+      "nombre": "arsenal",
+      "nombrePublico": "Arsenal"
+    },
+    {
+      "id": 22,
+      "ordenBloque": 22,
+      "nombre": "kilimanjaro",
+      "nombrePublico": "Kilimanjaro"
+    },
+    {
+      "id": 21,
+      "ordenBloque": 21,
+      "nombre": "calavera",
+      "nombrePublico": "Calavera"
+    },
+    {
+      "id": 20,
+      "ordenBloque": 20,
+      "nombre": "olimpia",
+      "nombrePublico": "Olimpia"
+    },
+    {
+      "id": 19,
+      "ordenBloque": 19,
+      "nombre": "dharma",
+      "nombrePublico": "Dharma"
+    },
+    {
+      "id": 18,
+      "ordenBloque": 18,
+      "nombre": "kemet",
+      "nombrePublico": "Kemet"
+    },
+    {
+      "id": 17,
+      "ordenBloque": 17,
+      "nombre": "legado_gotico",
+      "nombrePublico": "Legado Gótico"
+    },
+    {
+      "id": 16,
+      "ordenBloque": 16,
+      "nombre": "hijos_del_sol",
+      "nombrePublico": "Hijos Del Sol"
+    },
+    {
+      "id": 15,
+      "ordenBloque": 15,
+      "nombre": "axis_mundi",
+      "nombrePublico": "Axis Mundi"
+    },
+    {
+      "id": 14,
+      "ordenBloque": 14,
+      "nombre": "steampunk",
+      "nombrePublico": "Steampunk"
+    },
+    {
+      "id": 13,
+      "ordenBloque": 13,
+      "nombre": "aguila_imperial",
+      "nombrePublico": "Águila Imperial"
+    },
+    {
+      "id": 12,
+      "ordenBloque": 12,
+      "nombre": "contraataque",
+      "nombrePublico": "Contra Ataque"
+    },
+    {
+      "id": 11,
+      "ordenBloque": 11,
+      "nombre": "dominio",
+      "nombrePublico": "Dominio"
+    },
+    {
+      "id": 10,
+      "ordenBloque": 10,
+      "nombre": "solnaciente",
+      "nombrePublico": "Sol Naciente"
+    },
+    {
+      "id": 9,
+      "ordenBloque": 9,
+      "nombre": "bushido",
+      "nombrePublico": "Bushido"
+    },
+    {
+      "id": 8,
+      "ordenBloque": 8,
+      "nombre": "templarios",
+      "nombrePublico": "Templarios"
+    },
+    {
+      "id": 7,
+      "ordenBloque": 7,
+      "nombre": "camelot",
+      "nombrePublico": "Camelot"
+    },
+    {
+      "id": 6,
+      "ordenBloque": 6,
+      "nombre": "midgard",
+      "nombrePublico": "Midgard"
+    },
+    {
+      "id": 5,
+      "ordenBloque": 5,
+      "nombre": "asgard",
+      "nombrePublico": "Asgard"
+    },
+    {
+      "id": 4,
+      "ordenBloque": 4,
+      "nombre": "rebelión",
+      "nombrePublico": "Rebelión"
+    },
+    {
+      "id": 3,
+      "ordenBloque": 3,
+      "nombre": "sumeria",
+      "nombrePublico": "Sumeria"
+    },
+    {
+      "id": 2,
+      "ordenBloque": 2,
+      "nombre": "furia_extension",
+      "nombrePublico": "Furia Extension"
+    },
+    { "id": 1, "ordenBloque": 1, "nombre": "furia", "nombrePublico": "Furia" },
+    { "id": 28, "nombre": "aniversario", "nombrePublico": "Aniversario" },
+    { "id": 29, "nombre": "antologia", "nombrePublico": "Antología" },
+    { "id": 30, "nombre": "barbarie", "nombrePublico": "Barbarie" },
+    { "id": 31, "nombre": "bestiario", "nombrePublico": "Bestiario" },
+    { "id": 32, "nombre": "co_compendium", "nombrePublico": "Co Compendium" },
+    { "id": 33, "nombre": "cruzadas", "nombrePublico": "Cruzadas" },
+    { "id": 34, "nombre": "dominios_de_ra", "nombrePublico": "Dominios de Ra" },
+    { "id": 35, "nombre": "eco_compendium", "nombrePublico": "Eco Compendium" },
+    { "id": 36, "nombre": "el_reto", "nombrePublico": "El Reto" },
+    { "id": 37, "nombre": "encrucijada", "nombrePublico": "Encrucijada" },
+    { "id": 38, "nombre": "espada_sagrada", "nombrePublico": "Espada Sagrada" },
+    {
+      "id": 39,
+      "nombre": "espiritu_de_dragon",
+      "nombrePublico": "Espíritu de Dragón"
+    },
+    {
+      "id": 40,
+      "nombre": "general_pb",
+      "nombrePublico": "Primer Bloque general"
+    },
+    { "id": 41, "nombre": "guardianes", "nombrePublico": "Guardianes" },
+    {
+      "id": 42,
+      "nombre": "guerrero_jaguar",
+      "nombrePublico": "Guerrero Jaguar"
+    },
+    { "id": 43, "nombre": "helenica", "nombrePublico": "Helénica" },
+    { "id": 44, "nombre": "heroes", "nombrePublico": "Héroes" },
+    { "id": 45, "nombre": "hijos_de_daana", "nombrePublico": "Hijos de Daana" },
+    { "id": 46, "nombre": "hordas", "nombrePublico": "Hordas" },
+    { "id": 47, "nombre": "icarito_pe", "nombrePublico": "Icarito" },
+    { "id": 48, "nombre": "imperio", "nombrePublico": "Imperio" },
+    {
+      "id": 49,
+      "nombre": "juego_organizado",
+      "nombrePublico": "Juego Organizado"
+    },
+    { "id": 50, "nombre": "la_cofradia", "nombrePublico": "La Cofradía" },
+    {
+      "id": 51,
+      "nombre": "la_ira_del_nahual",
+      "nombrePublico": "La Ira del Nahual"
+    },
+    { "id": 52, "nombre": "liber_dominus", "nombrePublico": "Liber Dominus" },
+    { "id": 53, "nombre": "mundo_gotico", "nombrePublico": "Mundo Gótico" },
+    { "id": 54, "nombre": "mundo_gotico_x", "nombrePublico": "Mundo Gótico X" },
+    { "id": 55, "nombre": "myl_lackey", "nombrePublico": "Lackey" },
+    { "id": 56, "nombre": "promo", "nombrePublico": "Promocionales" },
+    { "id": 57, "nombre": "q_vil", "nombrePublico": "Cubil" },
+    { "id": 58, "nombre": "ragnarok", "nombrePublico": "Ragnarok" },
+    { "id": 59, "nombre": "reino_de_acero", "nombrePublico": "Reino de acero" },
+    { "id": 60, "nombre": "tierras_altas", "nombrePublico": "Tierras Altas" },
+    { "id": 61, "nombre": "vendaval", "nombrePublico": "Vendaval" },
+    { "id": 62, "nombre": "codigo_samurai", "nombrePublico": "Código Samurai" },
+    {
+      "id": 63,
+      "nombre": "general_cronicas",
+      "nombrePublico": "Crónicas general"
+    },
+    { "id": 64, "nombre": "heroes_lgtsp", "nombrePublico": "Héroes" },
+    { "id": 65, "nombre": "katana", "nombrePublico": "Katana" },
+    { "id": 66, "nombre": "sp", "nombrePublico": "SP" },
+    {
+      "id": 67,
+      "nombre": "reliquias_del_dragon",
+      "nombrePublico": "Reliquias del Dragón"
+    },
+    {
+      "id": 68,
+      "nombre": "set_paralelo_(2)",
+      "nombrePublico": "Set Paralelo 2"
+    },
+    {
+      "id": 69,
+      "nombre": "general_nuevaera",
+      "nombrePublico": "Nueva Era general"
+    },
+    { "id": 70, "nombre": "grimorio", "nombrePublico": "Grimorio" },
+    { "id": 71, "nombre": "nativitas", "nombrePublico": "Nativitas" },
+    { "id": 72, "nombre": "rebelion", "nombrePublico": "Rebelión" },
+    { "id": 73, "nombre": "tesoro_vikingo", "nombrePublico": "Tesoro Vikingo" }
+  ]
+}

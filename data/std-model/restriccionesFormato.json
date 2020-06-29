@@ -1,0 +1,14 @@
+{
+  "restriccionesFormato": [
+    {
+      "idFormato": 1,
+      "idCarta": 3117,
+      "cantidadMax": 0
+    },
+    {
+      "idFormato": 1,
+      "idCarta": 4571,
+      "cantidadMax": 1
+    }
+  ]
+}

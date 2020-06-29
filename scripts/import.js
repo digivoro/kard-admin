@@ -3,19 +3,23 @@ const firestoreService = require("firestore-export-import");
 const firebaseConfig = require("./config.js");
 const serviceAccount = require("./kard-37937-firebase-adminsdk-i93lg-eb9528d74b.json");
 
-// Files
+// Descomentar archivos a importar:
 let files = [
-  "../data/mylsets.json",
-  "../data/mylcards.json",
-  "../data/mylformatos.json",
-  "../data/mylpalabrasclave.json",
-  "../data/myltorneo.json"
+  // "../data/std-model/cartas.json"
+  // "../data/std-model/construcciones.json",
+  // "../data/std-model/ediciones.json",
+  // "../data/std-model/formatos.json",
+  // "../data/std-model/formatos_ediciones.json",
+  // "../data/std-model/formatos_frecuencias.json",
+  // "../data/std-model/frecuencias.json",
+  "../data/std-model/jugadores.json"
+  // "../data/std-model/razas.json",
+  // "../data/std-model/restriccionesFormato.json",
+  // "../data/std-model/subrazas.json",
+  // "../data/std-model/tipos.json",
+  // "../data/std-model/tipos_zonasMazo.json",
+  // "../data/std-model/zonasMazo.json"
 ];
-let sets = "../data/mylsets.json";
-let cards = "../data/mylcards.json";
-let formatos = "../data/mylformatos.json";
-let palabrasclave = "../data/mylpalabrasclave.json";
-let torneos = "../data/myltorneos.json";
 
 // JSON To Firestore
 const jsonToFirestore = async file => {
@@ -35,7 +39,7 @@ const jsonToFirestore = async file => {
 };
 
 // Importar 1 archivo:
-jsonToFirestore(cards);
+// jsonToFirestore(cards);
 
 // Importar todos los archivos:
-// files.forEach(file => jsonToFirestore(file));
+files.forEach(file => jsonToFirestore(file));

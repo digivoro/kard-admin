@@ -1,0 +1,8 @@
+{
+  "construcciones": [
+    { "id": 0, "nombre": "mercenario", "cantidadMax": 49 },
+    { "id": 1, "nombre": "unica", "cantidadMax": 1 },
+    { "id": 2, "nombre": "normal", "cantidadMax": 3 },
+    { "id": 3, "nombre": "oro_basico", "cantidadMax": 49 }
+  ]
+}

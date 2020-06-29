@@ -1,0 +1,13 @@
+{
+  "frecuencias": [
+    { "id": 0, "nombre": "Promo" },
+    { "id": 1, "nombre": "Legendaria" },
+    { "id": 2, "nombre": "Ultra Real" },
+    { "id": 3, "nombre": "Mega Real" },
+    { "id": 4, "nombre": "Real" },
+    { "id": 5, "nombre": "Cortesano" },
+    { "id": 6, "nombre": "Vasallo" },
+    { "id": 7, "nombre": "Oro" },
+    { "id": 8, "nombre": "Milenaria" }
+  ]
+}

@@ -1,7 +1,6 @@
 /**
  * Script que crea lista de sets de Mitos y Leyendas en base a estructura de carpetas
  */
-
 const fs = require("fs");
 
 const retroMyl = "./RetroMyL/sets/setimages";

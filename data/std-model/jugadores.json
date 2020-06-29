@@ -1,0 +1,10 @@
+{
+  "jugadores": [
+    {
+      "id": 0,
+      "nombre": "Kard",
+      "texto": "Admin",
+      "email": "digivoro@gmail.com"
+    }
+  ]
+}
